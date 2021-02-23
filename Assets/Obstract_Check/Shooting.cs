@@ -74,7 +74,7 @@ public class Shooting : MonoBehaviour {
 
         float distance = difference.magnitude;
         // Debug.Log("distance:" + distance);
-        if(distance <= 0.35f){
+        if(distance <= 0.3f){
             t = 0f;
         }else{
             t = 1f;
