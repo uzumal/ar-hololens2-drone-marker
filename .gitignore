@@ -54,7 +54,7 @@ MRTK/
 Realistic Drone/
 TextMesh Pro/
 MixedRealityToolkit.Generated/
-debugg/
+Debug/
 
 # Unity3D generated meta files
 *.pidb.meta
