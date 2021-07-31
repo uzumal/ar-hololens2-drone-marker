@@ -44,9 +44,17 @@ ExportedObj/
 *.VC.db
 *.fbx
 *.obj
+*.meta
+*.mat
+*.prefab
 
 # folder
 APP/
+MRTK/
+Realistic Drone/
+TextMesh Pro/
+MixedRealityToolkit.Generated/
+debugg/
 
 # Unity3D generated meta files
 *.pidb.meta
